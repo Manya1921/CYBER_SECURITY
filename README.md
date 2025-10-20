@@ -7,7 +7,7 @@ Perform basic network reconnaissance on an authorized host, identify open ports,
 
 ## Environment
 - Scanner: Nmap v7.98 
-- Target IP: 192.168.245.61 
+- Target IP: 192.168.245.61
 - Date: 2025-10-20
 
 ## Methodology
